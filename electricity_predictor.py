@@ -3,6 +3,8 @@ RUNGTA INTERNATIONAL SKILLS UNIVERSITY
 SCHOOL OF COMPUTER SCIENCE AND ENGINEERING
 Bachelor of Technology in Computer Science and Engineering
 B.Tech / CSE / FIRST SEM / SECTION - H
+NAme=Priyanshu Tiwari
+ERP=RU-26-00538
 Course: Programming Fundamentals and Logic Building Using Python (RU-100-01-0021)
 
 PS No.: 64
