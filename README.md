@@ -13,8 +13,8 @@
 * **Department:** School of Computer Science and Engineering
 * **Program:** Bachelor of Technology in Computer Science & Engineering (B.Tech CSE)
 * **Semester / Section:** First Semester / Section - H
-* **Name**Priyanshu Tiwari
-* **ERP**RU-26-00538
+* **Name**:Priyanshu Tiwari
+* **ERP**:RU-26-00538
 * **Course:** Programming Fundamentals and Logic Building Using Python (`RU-100-01-0021`)
 * **Problem Statement No.:** 64
 * **Allocation Date:** 14th October 2026
